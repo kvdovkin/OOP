@@ -1,0 +1,6 @@
+﻿  multmatrix.cpp
+  Создание кода
+c:\users\public\labs\oop labs\multmatrix lab\multmatrix\multmatrix\multmatrix.cpp(54): warning C4715: CheckFiles: значение возвращается не при всех путях выполнения
+  All 163 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  multmatrix.vcxproj -> C:\Users\Public\Labs\OOP Labs\multmatrix lab\multmatrix\x64\Release\multmatrix.exe
