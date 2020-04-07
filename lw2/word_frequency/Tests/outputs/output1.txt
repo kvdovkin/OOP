@@ -1,0 +1,13 @@
+Number : 1
+Of : 1
+case : 2
+for : 2
+love : 2
+news : 1
+number : 1
+people : 1
+perfect : 1
+some : 1
+знак : 1
+люди : 2
+число : 1

@@ -1,0 +1,3 @@
+﻿  word_frequency.cpp
+c:\users\public\labs\oop labs\lw2\word_frequency\word_frequency\word_frequency.cpp(20): warning C4715: CheckFiles: значение возвращается не при всех путях выполнения
+  word_frequency.vcxproj -> C:\Users\Public\Labs\OOP Labs\lw2\word_frequency\Debug\word_frequency.exe
