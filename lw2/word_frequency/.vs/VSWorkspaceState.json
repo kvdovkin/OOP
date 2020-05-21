@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Tests",
+    "\\Tests\\inputs",
+    "\\Tests\\outputs",
     "\\word_frequency"
   ],
-  "SelectedNode": "\\Tests\\test.bat",
+  "SelectedNode": "\\word_frequency\\word_frequency.cpp",
   "PreviewInSolutionExplorer": false
 }

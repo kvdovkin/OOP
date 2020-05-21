@@ -1,0 +1,4 @@
+Circle 22.1 5.8 4.3 000000 ffffff
+Triangle 3.1 7.2 7.2 5.1 6.3 9.4 00ffff ffff00
+LineSegment 2 6 8 9 00ff00
+Rectangle 10.3 20.15 30.7 40.4 ff0000 00ff00

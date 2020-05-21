@@ -21,7 +21,7 @@ bool CheckFiles(ifstream &file, ofstream &out) {
 	}
 }
 
-void printMap(ofstream &out, myMap &dict) {
+void PrintMap(ofstream &out, myMap &dict) {
 	for (auto it = dict.begin(); it != dict.end(); ++it)
 	{
 		out << (*it).first << " : " << (*it).second << endl;
@@ -35,7 +35,7 @@ int main(int argc, char const *argv[])
 	ifstream in(argv[1]);
 	ofstream out(argv[2]);
 	string str;
-	bool flag = true;
+	bool eofFlag = true;
 	myMap dict;
 
 	if (!CheckFiles(in, out))
@@ -44,7 +44,7 @@ int main(int argc, char const *argv[])
 	in >> str;
 	while (flag) {
 		if (in.eof()) {
-			flag = false;
+			eofFlag = false;
 			break;
 		}
 
@@ -52,7 +52,7 @@ int main(int argc, char const *argv[])
 		in >> str;
 	};
 
-	printMap(out, dict);
+	PrintMap(out, dict);
 		
 	in.close();
 	out.close();
